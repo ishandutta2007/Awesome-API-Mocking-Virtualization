@@ -61,9 +61,9 @@ The dedicated API mocking software market is valued at approximately **$100M+**,
 
 ## 🛠️ Open-Source Mocking & Virtualization Engines
 
-> Repositories are ranked and sorted in descending order by GitHub Star counts. Every star badge links directly to the repository's live stargazers page.
+> Repositories are ranked and sorted in descending order by GitHub Stars_Counts. Every Stars_Badge links directly to the repository's live stargazers page.
 
-| 📦 Project | ⭐ Stars | 📜 License | 💡 Overview & Primary Capabilities |
+| 📦 Project | ⭐ GitHub_Stars | 📜 License | 💡 Overview & Primary Capabilities |
 |---|---|---|---|
 | **[msw](https://github.com/mswjs/msw)** | [![Stars](https://img.shields.io/github/stars/mswjs/msw?style=social&color=white)](https://github.com/mswjs/msw/stargazers) | MIT | Seamless client-side and server-side API mocking utilizing Service Worker API to intercept network requests at the transport layer without modifying application code. |
 | **[nock](https://github.com/nock/nock)** | [![Stars](https://img.shields.io/github/stars/nock/nock?style=social&color=white)](https://github.com/nock/nock/stargazers) | MIT | The definitive HTTP server mocking and expectations library for Node.js. Intercepts `http.ClientRequest` and supports strict assertion matching. |
